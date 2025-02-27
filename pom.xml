@@ -187,7 +187,7 @@
                     <suiteXmlFiles>
                         <!--                       <suiteXmlFile>target/tests-classes/testng.xml</suiteXmlFile>&ndash;&gt;-->
                         <!--                        <suiteXmlFile>src/tests/java/resouces/testng.xml</suiteXmlFile>&ndash;&gt;-->
-                        <suiteXmlFile>src/test/java/resources/testng2.xml</suiteXmlFile>-->
+                        <suiteXmlFile>C:\Users\rumam\IdeaProjects\NewProject_Demo\src\test\java\resources\testNG.xml</suiteXmlFile>-->
 
                         <!--                            <suiteXmlFile>target/tests-classes/ChaseRegressionTestRunner.xml</suiteXmlFile>-->
                     </suiteXmlFiles>

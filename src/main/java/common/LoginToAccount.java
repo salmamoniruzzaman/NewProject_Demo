@@ -49,7 +49,7 @@ public class LoginToAccount extends CommonMethods{
 
 
     public void verifyLogin() throws InterruptedException, IOException {
-        String path ="C:\\Users\\rumam\\IdeaProjects\\ProjectOne\\excelfileforlogin\\LOGIN.xlsx";
+        String path ="C:\\Users\\rumam\\IdeaProjects\\NewProject_Demo\\excelfileforlogin\\LOGIN.xlsx";
         ReadFromExcel rd = new ReadFromExcel();
         String  datasheet[][]= rd.readFromExcelSheet(path, 0);
         emailField.sendKeys(datasheet[0][0]);
